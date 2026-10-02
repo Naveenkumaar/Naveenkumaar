@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Naveen%20Kumaar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%2F%20Data%20Scientist%20%E2%80%94%20Multi-Agent%20%26%20Voice%20AI%20Systems&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Naveen%20Kumaar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20AI%2FML%20Engineer%20%26%20AI%20Architect%20%E2%80%94%2011%2B%20Years%20%E2%80%A2%202%20US%20Patents&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://www.linkedin.com/in/naveen-kumaar-/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:jotheesssivan@gmail.com">
+<a href="mailto:snaveenkumaar@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Naveenkumaar/design-journal">
   <img src="https://img.shields.io/badge/Design%20Journal-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Config-driven+multi-agent+platforms;Cascaded+voice+agents+that+explain+themselves;LLM+orchestration+%2B+evals+%2B+guardrails;Always+shipping+with+tests+%26+an+architecture+doc&font=Fira+Code&center=true&width=700&height=50&color=2CB67D&vCenter=true&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=11%2B+years+shipping+production+AI%2FML+%26+GenAI+systems;Config-driven+multi-agent+platforms;Cascaded+voice+agents+that+explain+themselves;LLM+orchestration+%2B+evals+%2B+guardrails%2C+Azure+%26+Databricks&font=Fira+Code&center=true&width=700&height=50&color=2CB67D&vCenter=true&size=22" />
 
 </div>
 
@@ -20,11 +20,21 @@
 
 ## About Me
 
+**Senior AI/ML Engineer & AI Architect · 11+ years in production AI/ML**
+
 - 🧠 I build **systems that run AI agents from data, not code** — one engine, one guardrail path, one eval gate, applied to every agent instead of copy-pasted per agent.
 - 🎙️ I design **cascaded voice agents** (STT → dialogue → TTS) because auditability and offline testability beat an opaque end-to-end model, for the tasks I build.
 - 🧪 Every project ships with **tests, an architecture doc, and a written decision log** — I keep a public [design journal](https://github.com/Naveenkumaar/design-journal) of problems faced, decisions made, and what I'd change if I rebuilt it today.
+- 📜 **2 granted US patents** in applied ML.
 - 🏗️ Currently exploring: eval-gated releases, maker-checker approvals for high-risk agent actions, and routing-by-self-declared-profile instead of hand-written router tables.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/naveen-kumaar-/) or at **jotheesssivan@gmail.com**.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/naveen-kumaar-/) or at **snaveenkumaar@gmail.com**.
+
+<br/>
+
+## Patents
+
+- **US 12,579,548 B2** (granted Mar 2026) — Method and System for Predicting Likelihood of Return of a Product
+- **US 12,737,336 B2** (granted Sep 2026) — Method and System for Creating a Multimodal & Multilingual Product Catalogue (Hybrid Model)
 
 <br/>
 
@@ -88,7 +98,7 @@ A task-oriented voice assistant (restaurant booking) built as three inspectable,
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,react,js,postgres,sqlite,docker,git,github,linux,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,azure,fastapi,react,js,postgres,sqlite,docker,kubernetes,git,github,linux,bash&theme=dark" />
 
 </div>
 
